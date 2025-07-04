@@ -73,7 +73,7 @@
         }
         if (idx === pages.length - 1) {
           $('<a>', {
-            href: 'https://drive.google.com/drive/folders/1RflXkSgh1AHwnBYUk3zVf06pVOywQc4J?usp=drive_link',
+            href: 'https://drive.google.com/drive/folders/1P8uof4MZBSWKue9Bg9PUaNE7bPyDrrr6?usp=drive_link',
             target: '_blank',
             class: 'download-banner',
             title: 'Download Memories'

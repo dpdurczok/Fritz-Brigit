@@ -1,4 +1,4 @@
-cd \\D3D_Nas\homes\D3D\D3D Projects\2025\79_FlipBook_Marcella&Dan\Final\FlipBook
+cd \\D3D_Nas\homes\D3D\D3D Projects\2025\82_Flipbook_Fritz&Brigit\Final\FlipBook
 git status
 git add .
 git commit -m "Commit Description"
